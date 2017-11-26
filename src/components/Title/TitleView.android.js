@@ -4,7 +4,7 @@ import styles from '../../style/styles';
 
 const TitleView = () =>
     <Text style={styles.title}>
-        React Native Code Reuse (Android)
+        React Native Code (Android)
     </Text>;
 
 export default TitleView;
